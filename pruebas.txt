@@ -1,2 +1,0 @@
-nuevo archivo de prueba
-esta es una nueva linea para probar las clases de git en platzi
